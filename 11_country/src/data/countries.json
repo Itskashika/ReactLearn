@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "India",
+    "capital": "New Delhi",
+    "region": "Asia",
+    "population": "1.43 Billion",
+    "currency": "Indian Rupee",
+    "language": "Hindi",
+    "flag": "https://flagcdn.com/w320/in.png"
+  },
+  {
+    "id": 2,
+    "name": "Japan",
+    "capital": "Tokyo",
+    "region": "Asia",
+    "population": "125 Million",
+    "currency": "Japanese Yen",
+    "language": "Japanese",
+    "flag": "https://flagcdn.com/w320/jp.png"
+  },
+  {
+    "id": 3,
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "region": "North America",
+    "population": "333 Million",
+    "currency": "US Dollar",
+    "language": "English",
+    "flag": "https://flagcdn.com/w320/us.png"
+  },
+  {
+    "id": 4,
+    "name": "Australia",
+    "capital": "Canberra",
+    "region": "Oceania",
+    "population": "26 Million",
+    "currency": "Australian Dollar",
+    "language": "English",
+    "flag": "https://flagcdn.com/w320/au.png"
+  },
+  {
+    "id": 5,
+    "name": "Germany",
+    "capital": "Berlin",
+    "region": "Europe",
+    "population": "84 Million",
+    "currency": "Euro",
+    "language": "German",
+    "flag": "https://flagcdn.com/w320/de.png"
+  },
+  {
+    "id": 6,
+    "name": "Brazil",
+    "capital": "Brasília",
+    "region": "South America",
+    "population": "215 Million",
+    "currency": "Brazilian Real",
+    "language": "Portuguese",
+    "flag": "https://flagcdn.com/w320/br.png"
+  },
+  {
+    "id": 7,
+    "name": "Canada",
+    "capital": "Ottawa",
+    "region": "North America",
+    "population": "40 Million",
+    "currency": "Canadian Dollar",
+    "language": "English, French",
+    "flag": "https://flagcdn.com/w320/ca.png"
+  },
+  {
+    "id": 8,
+    "name": "France",
+    "capital": "Paris",
+    "region": "Europe",
+    "population": "68 Million",
+    "currency": "Euro",
+    "language": "French",
+    "flag": "https://flagcdn.com/w320/fr.png"
+  },
+  {
+    "id": 9,
+    "name": "China",
+    "capital": "Beijing",
+    "region": "Asia",
+    "population": "1.41 Billion",
+    "currency": "Chinese Yuan",
+    "language": "Mandarin",
+    "flag": "https://flagcdn.com/w320/cn.png"
+  },
+  {
+    "id": 10,
+    "name": "United Kingdom",
+    "capital": "London",
+    "region": "Europe",
+    "population": "67 Million",
+    "currency": "Pound Sterling",
+    "language": "English",
+    "flag": "https://flagcdn.com/w320/gb.png"
+  }
+]
